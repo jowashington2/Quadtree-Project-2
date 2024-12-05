@@ -1,0 +1,9 @@
+insert 10 10 5 5
+insert -20 -20 10 10
+find 10 10
+delete 10 10
+insert 0 0 15 15
+find 0 0
+insert -5 -5 2 2
+delete -5 -5
+dump
